@@ -1,0 +1,47 @@
+.nav{
+position: fixed;
+top: 0;
+z-index: 111;
+display: flex;
+list-style: none;
+text-decoration: none;
+width: 100%;
+padding-top: 2.5em;
+padding-left: 4em;
+}
+.logo>a{
+    display: flex;
+list-style: none;
+text-decoration: none;
+color: #FE6767;
+font-weight: 600;
+font-size: 1.5em;
+padding-right: 27em;
+}
+.bikes>a{
+    display: flex;
+list-style: none;
+text-decoration: none;
+font-weight: 500;
+font-size: 24px;
+color: #545454;
+padding-right: 3em;
+
+}
+.others>a{
+list-style: none;
+text-decoration: none;
+font-weight: 500;
+font-size: 24px;
+color: #FFFFFF;
+display: flex;
+
+}.sp>a{
+    margin-left: 3em;
+    list-style: none;
+text-decoration: none;
+font-weight: 500;
+font-size: 24px;
+color: #FFFFFF;
+padding-top: 20em;
+}

@@ -1,0 +1,75 @@
+.spec{
+position: absolute;
+top: 73%;
+left: 34%;
+
+}
+.bat{
+    display: flex;
+}
+
+.battery{
+    font-family: Poppins;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 0.8em;
+    padding-left: 5em;
+}
+.batteryd{
+    font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 3.5em;
+color: #FE6767;
+
+}
+.charging{
+    font-family: Poppins;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 0.8em;
+    padding-left: 5em;
+}
+.charge{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 3.5em;
+    color: white;
+
+    
+}
+.speed{
+    font-family: Poppins;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 0.8em;
+
+}
+.weight{
+    font-family: Poppins;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 0.8em;
+    padding-left: 5em;
+
+
+}
+.spwe{
+    display: flex;
+}
+.speedd{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 3.5em;
+    color: #FE6767;
+}
+.weightd{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 3.5em;
+    color: white;
+}
+
